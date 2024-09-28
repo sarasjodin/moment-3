@@ -2,7 +2,7 @@
 
 ## Moment 3 Versionshantering med Git och GitHub
 
-![GitHub logo](image1.png) ![GitHub logo](image.png)
+[<img src="image.png" />](image.png) [<img src="image1.png" />](image1.png)
 
 **Syftet** med uppgiften är att:
 
