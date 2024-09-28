@@ -1,4 +1,4 @@
-![Git logo](image-1.png) ![GitHub logo](image.png)
+/#![Git logo](image-1.png) ![GitHub logo](image.png)
 
 # Webbutvecklingsprogrammet 120hp
 
