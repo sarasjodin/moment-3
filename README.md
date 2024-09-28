@@ -2,7 +2,7 @@
 
 ## Moment 3 Versionshantering med Git och GitHub
 
-[<img src="image-1.png" />](image-1.png) [<img src="image.png" />](image.png)
+[<img src="image-1.png" width="66" />](image-1.png) [<img src="image.png" />](image.png)
 
 **Syftet** med uppgiften är att:
 
