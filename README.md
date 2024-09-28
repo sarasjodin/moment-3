@@ -15,5 +15,8 @@ De nya kunskaperna kommer jag sedan att kunna använda i kommande laborationer o
 ### Uppgift 3.1
 
 1. Frågor att besvara, begrepp och kommandon att förklara [<img src="image-2.png" width="30" />](image-2.png)
-2. Skapa ett repository med en README-fil (den här filen), samt publicera detta till Github.[<img src="image-2.png" width="30" />](image-2.png)
-3. Skapa en personlig README-file till mitt GitHub konto[<img src="image-2.png" width="30" />](image-2.png)
+
+### Uppgift 3.2
+
+1. Skapa ett repository med en README-fil (den här filen), samt publicera detta till Github.[<img src="image-2.png" width="30" />](image-2.png)
+2. Skapa en personlig README-file till mitt GitHub konto[<img src="image-2.png" width="30" />](image-2.png)
